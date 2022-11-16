@@ -1,3 +1,3 @@
 # diff-practice
 diff
-rebase main conflict
+rebase conflict
