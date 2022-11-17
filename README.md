@@ -2,3 +2,4 @@
 diff
 rebase conflict
 rebase
+stash
